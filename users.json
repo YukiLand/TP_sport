@@ -1,0 +1,50 @@
+[
+  {
+    "firstname": "Antoine",
+    "lastname": "Lecoffre",
+    "email": "antoine.lecoffre@projetsport.fr",
+    "password": "XXXX",
+    "phonenumber": "0600000000",
+    "role": "admin"
+  },
+  {
+    "firstname": "Tristan",
+    "lastname": "Chauvin",
+    "email": "tristan.chauvin@projetsport.fr",
+    "password": "EEEE",
+    "phonenumber": "0600000000",
+    "role": "admin"
+  },
+  {
+    "firstname": "Jean",
+    "lastname": "Dupont",
+    "email": "jean.dupont@projetsport.fr",
+    "password": "ZZZZ",
+    "phonenumber": "0600000000",
+    "role": "user"
+  },
+  {
+    "firstname": "Pierre",
+    "lastname": "Martin",
+    "email": "pierre.martin@projetsport.fr",
+    "password": "YYYY",
+    "phonenumber": "0600000000",
+    "role": "user"
+  },
+  {
+    "firstname": "Paul",
+    "lastname": "Durand",
+    "email": "paul.durant@projetsport.fr",
+    "password": "AAAA",
+    "phonenumber": "0600000000",
+    "role": "user"
+  },
+  {
+    "firstname": "Jacques",
+    "lastname": "Dubois",
+    "email": "jacques.dubois@projetsport.fr",
+    "password": "BBBB",
+    "phonenumber": "0600000000",
+    "role": "user"
+  }
+]

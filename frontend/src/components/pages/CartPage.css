@@ -1,0 +1,15 @@
+.cart-page {
+  height: 100vh;
+  background-color: #6c95a8;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+}
+
+.textOnCenter {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}

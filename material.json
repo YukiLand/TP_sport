@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Ballon",
+    "sport": "Football",
+    "quantity": "15",
+    "color": ["Blanc", "Noir"],
+    "image": "https://www.oppermann.fr/97595-large_default/304583-ballon-de-football-publicitaire.jpg"
+  },
+  {
+    "name": "Chasuble",
+    "sport": "Football",
+    "quantity": "25",
+    "color": ["Blanc", "Noir", "Rouge", "Bleu", "Vert"],
+    "image": "https://www.clickforfoot.com/7597-large_default/chasuble-ajouree-simple-vert.jpg"
+  },
+  {
+    "name": "Cones",
+    "sport": "Football",
+    "quantity": "50",
+    "color": ["Orange"],
+    "image": "https://www.clickforfoot.com/8020-home_default/cone-12-trous-orange-23-a-50-cm.jpg"
+  },
+  {
+    "name": "Maillot de bain homme",
+    "sport": "Natation",
+    "quantity": "10",
+    "color": ["Bleu", "Noir"],
+    "image": "https://cdn.shopify.com/s/files/1/0513/9913/1301/products/short-bain-recycle-bleu-nuit_b10c2136-da73-4199-b039-63bd7b171a94.jpg?v=1655977305"
+  },
+  {
+    "name": "Maillot de bain femme",
+    "sport": "Natation",
+    "quantity": "10",
+    "color": ["Bleu", "Noir"],
+    "image": "https://contents.mediadecathlon.com/p2386803/k$c137bec406862eb694ddfe89bbce7285/sq/8814975.jpg?format=auto&f=800x0"
+  },
+  {
+    "name": "Ballon",
+    "sport": "Waterpolo",
+    "quantity": "15",
+    "color": ["Jaune", "Orange"],
+    "image": "https://www.sports82.fr/images/produits/zoom/1921.jpg"
+  }
+]

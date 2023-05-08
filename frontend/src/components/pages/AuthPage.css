@@ -1,0 +1,19 @@
+.auth-page {
+  height: 100vh;
+  background-color: #6c95a8;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #fff;
+  margin-bottom: 2rem;
+}
+
+.text {
+  color: #fff;
+}
+
+.accountCreationText {
+  text-decoration: underline;
+  color: #fff;
+}
